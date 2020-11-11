@@ -1,4 +1,4 @@
-# POSTGRES in RUBY on RAILS
+![Banner](/public/ruby-on-rails-banner.gif)
 
 >>>## Steps to create a DB
 
